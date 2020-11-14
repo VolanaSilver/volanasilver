@@ -1,4 +1,4 @@
-## Welcome to [Volana Silver!](https://github.com/VolanaSilver/volanasilver/edit/main/README.md)
+## Welcome to [Volana Silver!](https://volanasilver.com)
 
 Explore Volana Silver’s astonishing assemblage of magical and thrilling jewelry. Combined with delicate craftsmanship, our beautiful jewelry is dainty and ideal for layering. Grasp the spirit of love with our gorgeous selection of silver ornaments.
 

@@ -2,15 +2,13 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    Designer/Developer: Jordan Bowman
-    https://www.papayatemplates.com
-    @jrdnbwmn
-    desk@jrdnbwmn.com
+	
+    Developer: Denizhan Dalgic
+    Designer/Developer: Jordan Bowman    
 
 # THANKS
 
-    <name>
+    My friends and loved ones
 
 # TECHNOLOGY COLOPHON
 

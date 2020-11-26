@@ -31,18 +31,22 @@
             gtag('js', new Date());
             gtag('config', 'G-PHB73RT5V1');
         </script>
-        <script language="JavaScript" src="http://www.geoplugin.net/javascript.gp" type="text/javascript"></script>
-
+        <script async src="https://get.geojs.io/v1/ip/geo.js"></script>
     </head>
 
     <body class="has-animations">
-        <script>
-            if(geoplugin_countryName() == 'Turkey') {
-                window.location.assign("http://www.shopier.com/volanasilver");
-            } else {
-                window.location.assign("https://www.etsy.com/shop/VolanaSilver");
+        
+        <script type="application/javascript">
+            function geoip(json){
+                if(json.country_code == "TR"){
+                    document.location.assign("https://www.shopier.com/volanasilver");
+                }else {
+                    document.location.assign("https://www.etsy.com/shop/VolanaSilver");
+                }                
             }
         </script>
+        
+
 
     <!-- Header -->
     <header class="align--center pt3">
